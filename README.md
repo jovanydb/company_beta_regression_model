@@ -1,8 +1,6 @@
 # Company Beta Regression Model – R Implementation
 
-A regression model that estimates and predicts public company equity betas using historical return data and other firm-level features such as capital structure, industry, and business model characteristics.  
-Some components are still work-in-progress as this is an ongoing project for me.  
-All code here is implemented in **R**.
+A regression model that estimates and predicts public company equity betas using historical return data and other firm-level features such as capital structure, industry, and business model characteristics. Some components are still work-in-progress as this is an ongoing project for me. All code here is implemented in **R**.
 
 ## Purpose
 - Develop a systematic, regression-based approach for estimating public company betas.  
